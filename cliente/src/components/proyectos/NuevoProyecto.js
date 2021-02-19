@@ -27,7 +27,7 @@ const NuevoProyecto = () => {
     }
 
     return (  
-        <>
+        <Fragment>
             <button 
                 type="button"
                 className="btn btn-block btn-primario"
@@ -53,7 +53,7 @@ const NuevoProyecto = () => {
                 />
 
             </form>
-        </>
+        </Fragment>
     );
 }
  

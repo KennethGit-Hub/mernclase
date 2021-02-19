@@ -11,10 +11,8 @@ const Sidebar = () => {
 
             <div className="proyectos">
                 <h3>Tus Proyectos</h3>
-
                 <ListadoProyectos/>
             </div>
-
         </aside>);
 }
  
